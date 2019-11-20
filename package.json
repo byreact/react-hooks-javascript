@@ -2,17 +2,21 @@
   "name": "react-hooks-example",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
-  },
+  "description": "React Hooks Javascript Example",
+  "author": "AGUMON",
+  "license": "ISC",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.2.0"
+  },
+  "devDependencies": {},
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -27,5 +31,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byreact/react-hooks-javascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byreact/react-hooks-javascript/issues"
+  },
+  "homepage": "https://github.com/byreact/react-hooks-javascript#readme"
 }
