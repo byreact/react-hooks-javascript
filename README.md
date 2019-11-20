@@ -1,4 +1,4 @@
-# React Hooks Example
+# React Hooks Javascript Example
 
 1. 함수만으로 React Component 개발
 
